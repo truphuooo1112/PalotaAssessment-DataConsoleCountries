@@ -1,5 +1,9 @@
 using system
+
 class test
+
+namespace PalotaAnswer
+
 public static void()
 {
 <Project Sdk="Microsoft.NET.Sdk">
