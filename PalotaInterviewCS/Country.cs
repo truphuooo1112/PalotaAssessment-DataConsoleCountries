@@ -1,8 +1,8 @@
-using System;
-class test                              // defines programs class
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-using System.Runtime.Serialization;
+using System;                              // defines the envrinment platform
+class test;                              // defines programs class
+using Newtonsoft.Json;                   // defines the script embedded
+using Newtonsoft.Json.Converters;        // defines the converting and parse of data to information
+using System.Runtime.Serialization;       // defines the runtime procedure 
 
 namespace PalotaInterviewCS                         //the program directive
 {
