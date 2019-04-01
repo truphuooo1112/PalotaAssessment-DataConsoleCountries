@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+class test
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using System.Runtime.Serialization;
