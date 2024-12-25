@@ -144,7 +144,7 @@ namespace PalotaInterviewCS                         //the program directive
         public string Br { get; set; }
 
         [JsonProperty("pt")]
-        public string Pt { get; set; }
+        public string Pt { get; set; } 
 
         [JsonProperty("nl")]
         public string Nl { get; set; }
